@@ -1,7 +1,7 @@
 # Design-Patterns-in-C#-and-.NET
 
 
-## Pre-requisites
+### Pre-requisites
 
 - [One of the OOP Language-C++/JAVA/Python]()
 - [OOPS Concepts]()
@@ -9,7 +9,7 @@
 - [Practice]()
 
 
-## Resources & Books
+### Resources & Books
 
  - [DigitalOcean-SOLID principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
  - [OODesign.com](https://www.oodesign.com/design-principles)
