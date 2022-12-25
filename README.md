@@ -8,7 +8,7 @@
 - [UML Class Diagrams]()
 - [Practice]()
 
- *Below are the links to the resources :
+ *Below are the links to the resources :*
 
 - 🟢 [FreeCodeCamp OOPs in C++](https://www.youtube.com/watch?v=wN0x9eZLix4)
 - 🟢 [OOPs by Anuj Bhaiyaa]()
