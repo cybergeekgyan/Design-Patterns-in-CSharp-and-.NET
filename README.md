@@ -8,6 +8,16 @@
 - [UML Class Diagrams]()
 - [Practice]()
 
+
+## Resources & Books
+
+ - [DigitalOcean-SOLID principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+ - [OODesign.com](https://www.oodesign.com/design-principles)
+ - [TutorialsPoint](https://www.tutorialspoint.com/design_pattern/index.htm)
+ - [Derek Banas Playlist](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07)
+ - [Head First Design Patterns - Book]()
+ - [SOLID principles in picures-Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
  *Below are the links to the resources :*
 
 - 🟢 [FreeCodeCamp OOPs in C++](https://www.youtube.com/watch?v=wN0x9eZLix4)
@@ -32,14 +42,6 @@
 
 🟢 Other resources: https://github.com/prasadgujar/low-le...
 
-## Resources & Books
-
- - [DigitalOcean-SOLID principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
- - [OODesign.com](https://www.oodesign.com/design-principles)
- - [TutorialsPoint](https://www.tutorialspoint.com/design_pattern/index.htm)
- - [Derek Banas Playlist](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07)
- - [Head First Design Patterns - Book]()
- - [SOLID principles in picures-Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ## Contents
 
